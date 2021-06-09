@@ -1,0 +1,39 @@
+:root {
+    --mainColor: #15202B;
+    --mainColorSticky: #15202b6e;
+    --secondaryColor: #192734;
+
+    --borderColor: #164D56;
+
+    --mainText: #fff;
+    --secondaryText: #eee;
+    --subtitle: #f9564f;
+
+    --themeDotBorder: #fff;
+
+    --previewBg: rgba(25, 39, 52, 0.8);
+
+    --previewShadow: #111921;
+
+    --btnColor: #5995DA;
+}
+
+.about {
+    background-color: var(--secondaryColor);
+}
+
+.skills {
+    background-color: var(--mainColor);
+}
+
+.portfolio {
+    background-color: var(--secondaryColor);
+}
+
+.contact {
+    background-color: var(--mainColor);
+}
+
+.btn {
+    background: var(--secondaryColor);
+}
